@@ -14,7 +14,7 @@ export default function Home() {
     <div className="home-wrapper">
       <img
         className="home-image"
-        src="https://pixabay.com/get/gf013465103ebb8e15d3f7ec09fe29aedf05eeaa1f5040302607516295c5fb30de82f6456595339ff6ba25676359f0502.jpg"
+        src="https://i.ibb.co/BZ6VXj3/pizza-3007395.jpg"
         alt=""
       />
       <Link to="/Pizza" className="md-button shop-button">
